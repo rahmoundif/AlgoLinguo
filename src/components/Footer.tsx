@@ -25,7 +25,7 @@ function Header() {
 				/>
 			</Link>
 			<Link to="/about">
-				<p className="max-lg:hidden text-white text-2xl underline mr-60 cursor-pointer">
+				<p className="max-lg:hidden text-white text-2xl underline mr-60 cursor-pointer hover:text-green-100">
 					About
 				</p>
 			</Link>
